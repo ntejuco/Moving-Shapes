@@ -1,0 +1,9 @@
+Name: Nathan Michael Novakowski-Tejuco
+Login: nnov539
+ID: 6300573
+Time taken: 12 hours
+Easy: Adding path
+Difficult: How to import a car logo which was transparent, Figuring out how methods interacted with each other, class diagram tedious
+Topics it helped with: Swing, AWT, class diagrams
+ 
+
